@@ -1,0 +1,6 @@
+- Name: Flavors Helper
+  Version: 1.0.0
+  DLL: DLL/FlavorsHelper.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.1761.0
